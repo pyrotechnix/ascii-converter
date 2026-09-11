@@ -25,3 +25,4 @@ Python script to convert files to ascii braille art. Example
 ⠀⠀⠀⠀⠀⠀⠀⢠⡿⣍⢩⣅⠈⠘⢷⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠛⠛⠁⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ```
+It looks way cooler than this in a terminal
