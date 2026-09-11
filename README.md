@@ -25,4 +25,9 @@ Python script to convert files to ascii braille art. Example
 ⠀⠀⠀⠀⠀⠀⠀⢠⡿⣍⢩⣅⠈⠘⢷⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠛⠛⠁⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ```
-It looks way cooler than this in a terminal
+It looks way cooler than this in a terminal |
+                                            |
+                                            V
+
+
+![Better looking example](https://github.com/pyrotechnix/ascii-converter/blob/main/Example.png?raw=true)
